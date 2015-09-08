@@ -49,7 +49,8 @@ User:
         "enabled": true,
         "admin": true
       }
-   } 
+    } 
+  }
 }
 ```
 Note: While users can belong to multiple organizations, and the above
